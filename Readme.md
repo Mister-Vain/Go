@@ -5,9 +5,9 @@ Il a pour but de tester le depot et la mise a jour de fichier sur github. A vrai
 
 
 ## TO DO
-[x] DEPOT DE FICHIER (Go)
-[x] TESTER LE .md
-[ ] Proposer de nouveaux tests
+-[x] DEPOT DE FICHIER (Go)
+-[x] TESTER LE .md
+-[ ] Proposer de nouveaux tests
 
 Ici, le but de ce fichier est de tester le .md : **markdown**.
 > j'espere que la prise en compte de md est *automatique*.
